@@ -64,27 +64,20 @@
 ---
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<table align="center" border="0" cellspacing="0" cellpadding="10" style="table-layout: fixed; width: 100%; max-width: 1200px;">
+<table align="center" border="0" cellspacing="0" cellpadding="10" style="table-layout: fixed; width: 100%; max-width: 1000px;">
   <tr>
-    <td align="center" valign="top" style="border: none; width: 33%;">
+    <td align="center" valign="top" style="border: none; width: 50%;">
       <h3>🐍 Snake Game</h3>
-      <img src="./assets/snake_game.jpeg" width="200" alt="Snake Game" style="height: 150px; object-fit: cover;"/>
+      <img src="./assets/snake_game.jpeg" width="300" alt="Snake Game" style="height: 180px; object-fit: cover;"/>
       <div style="height: 120px; overflow: auto;">
         <p>Snake Game Extreme es una versión adrenalínica del clásico juego de la serpiente, llevado al siguiente nivel con enemigos dinámicos que aparecen, desaparecen y se mueven por el tablero.</p>
       </div>
     </td>
-    <td align="center" valign="top" style="border: none; width: 33%;">
+    <td align="center" valign="top" style="border: none; width: 50%;">
       <h3>🎓📚👩‍💻 Polymanager</h3>
-      <img src="./assets/polymanager.png" width="200" alt="Polymanager" style="height: 150px; object-fit: cover;"/>
+      <img src="./assets/polymanager.png" width="300" alt="Polymanager" style="height: 180px; object-fit: cover;"/>
       <div style="height: 120px; overflow: auto;">
         <p>Poly Manager Front es una plataforma de gestión educativa desarrollada con Nuxt 3, que permite la administración de cursos en línea con interfaces para estudiantes y profesores.</p>
-      </div>
-    </td>
-    <td align="center" valign="top" style="border: none; width: 33%;">
-      <h3>📋 Invoices App</h3>
-      <img src="./assets/invoices_app.png" width="200" alt="Invoices App" style="height: 150px; object-fit: cover;"/>
-      <div style="height: 120px; overflow: auto;">
-        <p>Una aplicación web moderna para la gestión de facturas desarrollada con React y Vite. Esta aplicación permite a los usuarios gestionar, crear y dar seguimiento a sus facturas.</p>
       </div>
     </td>
   </tr>
@@ -95,34 +88,29 @@
     <td align="center" style="border: none;">
       <a href="https://github.com/lizethcas/poly_manager_front">Ver Proyecto 🚀</a>
     </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/lizethcas/invoices-app">Ver Proyecto 🚀</a>
-    </td>
   </tr>
   <tr>
-    <td align="center" valign="top" style="border: none; width: 33%;">
+    <td align="center" valign="top" style="border: none; width: 50%;">
+      <h3>📋 Invoices App</h3>
+      <img src="./assets/invoices_app.png" width="300" alt="Invoices App" style="height: 180px; object-fit: cover;"/>
+      <div style="height: 120px; overflow: auto;">
+        <p>Una aplicación web moderna para la gestión de facturas desarrollada con React y Vite. Esta aplicación permite a los usuarios gestionar, crear y dar seguimiento a sus facturas.</p>
+      </div>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 50%;">
       <h3>📞 Agenda Telefónica</h3>
-      <img src="/assets/phonebook.png" width="200" alt="Phonebook" style="height: 150px; object-fit: cover;"/>
+      <img src="/assets/phonebook.png" width="300" alt="Phonebook" style="height: 180px; object-fit: cover;"/>
       <div style="height: 120px; overflow: auto;">
         <p>Una aplicación web para gestionar contactos telefónicos desarrollada con React. Permite agregar, filtrar y eliminar contactos con una interfaz sencilla y funcional.</p>
       </div>
     </td>
-    <td align="center" valign="top" style="border: none; width: 33%;">
-      <!-- Espacio reservado para proyecto futuro -->
-    </td>
-    <td align="center" valign="top" style="border: none; width: 33%;">
-      <!-- Espacio reservado para proyecto futuro -->
-    </td>
   </tr>
   <tr>
     <td align="center" style="border: none;">
+      <a href="https://github.com/lizethcas/invoices-app">Ver Proyecto 🚀</a>
+    </td>
+    <td align="center" style="border: none;">
       <a href="https://github.com/lizethcas/phonebook">Ver Proyecto 🚀</a>
-    </td>
-    <td align="center" style="border: none;">
-      <!-- Espacio reservado para enlace de proyecto futuro -->
-    </td>
-    <td align="center" style="border: none;">
-      <!-- Espacio reservado para enlace de proyecto futuro -->
     </td>
   </tr>
 </table>
