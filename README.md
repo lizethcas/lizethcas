@@ -144,7 +144,7 @@
 _“💡 No quiero que memorices. Quiero que **entiendas**. Porque cuando entiendes, puedes crear sin miedo.”_
 
 🌟 ¡Gracias por pasarte por aquí!  
-💌 Si te interesa colaborar, aprender o testear BrainLogic, mándame un mensajito.
+💌 Si te interesa colaborar o aprender mándame un mensajito lizethcastillodeveloper@gmail.com.
 
 ---
 
