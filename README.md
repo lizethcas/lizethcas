@@ -64,39 +64,42 @@
 ---
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="border: 1px solid #10b981; padding: 20px; border-radius: 10px; max-width: 350px; background: #1a1a1a;">
-    <h3>🐍 Snake Game</h3>
-    <div style="text-align: center;">
-      <img src="./assets/snake_game.jpeg" width="200" alt="Snake Game" />
-    </div>
-    <p style="font-size: 18px; color: #10b981; max-width: 300px; margin: auto;">
-      Snake Game Extreme es una versión adrenalínica del clásico juego de la serpiente, llevado al siguiente nivel con enemigos dinámicos que aparecen, desaparecen y se mueven por el tablero. ¡Pon a prueba tus reflejos y habilidades mientras intentas sobrevivir en este desafiante entorno!
-    </p>
-    <a href="https://github.com/lizethcas/snake_game" target="_blank" style="color:#ec4899; font-weight:bold; text-decoration:none;">Ver Proyecto 🚀</a>
-  </div>
-
-  <div style="border: 1px solid #10b981; padding: 20px; border-radius: 10px; max-width: 350px; background: #1a1a1a;">
-    <h3>🎓📚👩‍💻 Polymanager</h3>
-    <div style="text-align: center;">
-      <img src="./assets/polymanager.png" width="200" alt="Snake Game" />
-    </div>
-    <p style="font-size: 18px; color: #10b981; max-width: 300px; margin: auto;">
-     Poly Manager Front es una plataforma de gestión educativa desarrollada con Nuxt 3, que permite la administración de cursos en línea. La aplicación ofrece diferentes interfaces para estudiantes y profesores, permitiendo a los estudiantes acceder a los cursos disponibles y a los profesores gestionar el contenido de sus cursos.
-    </p>
-    <a href="https://github.com/lizethcas/poly_manager_front" target="_blank" style="color:#ec4899; font-weight:bold; text-decoration:none;">Ver Proyecto 🚀</a>
-  </div>
-  <div style="border: 1px solid #10b981; padding: 20px; border-radius: 10px; max-width: 350px; background: #1a1a1a;">
-    <h3> Invoices app</h3>
-    <div style="text-align: center;">
-      <img src="./assets/invoices_app.png" width="200" alt="Snake Game" />
-    </div>
-    <p style="font-size: 18px; color: #10b981; max-width: 300px; margin: auto;">
-      Una aplicación web moderna para la gestión de facturas desarrollada con React y Vite. Esta aplicación permite a los usuarios gestionar, crear y dar seguimiento a sus facturas de manera eficiente.
-    </p>
-    <a href="https://github.com/lizethcas/invoices-app" target="_blank" style="color:#ec4899; font-weight:bold; text-decoration:none;">Ver Proyecto 🚀</a>
-  </div>
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="10" style="table-layout: fixed; width: 100%; max-width: 1200px;">
+  <tr>
+    <td align="center" valign="top" style="border: none; width: 33%;">
+      <h3>🐍 Snake Game</h3>
+      <img src="./assets/snake_game.jpeg" width="200" alt="Snake Game" style="height: 150px; object-fit: cover;"/>
+      <div style="height: 120px; overflow: auto;">
+        <p>Snake Game Extreme es una versión adrenalínica del clásico juego de la serpiente, llevado al siguiente nivel con enemigos dinámicos que aparecen, desaparecen y se mueven por el tablero.</p>
+      </div>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33%;">
+      <h3>🎓📚👩‍💻 Polymanager</h3>
+      <img src="./assets/polymanager.png" width="200" alt="Polymanager" style="height: 150px; object-fit: cover;"/>
+      <div style="height: 120px; overflow: auto;">
+        <p>Poly Manager Front es una plataforma de gestión educativa desarrollada con Nuxt 3, que permite la administración de cursos en línea con interfaces para estudiantes y profesores.</p>
+      </div>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33%;">
+      <h3>📋 Invoices App</h3>
+      <img src="./assets/invoices_app.png" width="200" alt="Invoices App" style="height: 150px; object-fit: cover;"/>
+      <div style="height: 120px; overflow: auto;">
+        <p>Una aplicación web moderna para la gestión de facturas desarrollada con React y Vite. Esta aplicación permite a los usuarios gestionar, crear y dar seguimiento a sus facturas.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/lizethcas/snake_game">Ver Proyecto 🚀</a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/lizethcas/poly_manager_front">Ver Proyecto 🚀</a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/lizethcas/invoices-app">Ver Proyecto 🚀</a>
+    </td>
+  </tr>
+</table>
 
 
 ---
