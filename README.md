@@ -89,7 +89,7 @@
     </td>
     <td align="center" valign="top" style="border: none; width: 25%;">
       <h3>📞 Agenda Telefónica</h3>
-      <img src="https://repository-images.githubusercontent.com/770038567/a3ceeeae-ce40-4d45-9fb8-ef6ff4345fd0" width="200" alt="Phonebook" style="height: 150px; object-fit: cover;"/>
+      <img src="/assets/phonebook.png" width="200" alt="Phonebook" style="height: 150px; object-fit: cover;"/>
       <div style="height: 120px; overflow: auto;">
         <p>Una aplicación web para gestionar contactos telefónicos desarrollada con React. Permite agregar, filtrar y eliminar contactos con una interfaz sencilla y funcional.</p>
       </div>
