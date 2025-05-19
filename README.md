@@ -9,7 +9,7 @@
 ---
 
 - 🚀 +5 años de experiencia en el sector tecnologico : desarrollo web | Entrenamiento de bots.
-- 🧠 Docente de programación: explico conceptos complejos con claridad y ejemplos reales.
+- 🧠 Docente de programación: haciendo facil lo complejo.
 - 📣 Comparto contenido sobre aprendizaje consciente, lógica de programación y uso estratégico de la IA.
 - 🎮 Curiosa del desarrollo de juegos con JavaScript y Python.
 
