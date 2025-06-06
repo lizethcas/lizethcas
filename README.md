@@ -54,7 +54,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white)
 
 
 ---
