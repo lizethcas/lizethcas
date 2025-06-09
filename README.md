@@ -126,6 +126,23 @@
     </td>
   </tr>
 </table>
+---
+---
+
+## 💜 ¿Te gusta lo que comparto?
+
+Estoy comprometida con crear contenido educativo que ayude a más personas a aprender programación de forma clara y práctica.  
+Si alguna vez aprendiste algo conmigo o simplemente quieres apoyar mi trabajo, considera convertirte en mi sponsor aquí en GitHub.
+
+Tu patrocinio me permite:
+
+- Crear más guías, retos y recursos gratuitos 🧠  
+- Compartir contenido útil con propósito y continuidad ✨  
+- Dedicar tiempo a construir proyectos educativos reales 💻
+
+[👉 Conviértete en sponsor](https://github.com/sponsors/lizethcas) y forma parte de esta comunidad que cree en el poder de compartir conocimiento.
+
+¡Gracias por estar aquí! 💜
 
 
 ---
