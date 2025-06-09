@@ -140,10 +140,13 @@ Tu patrocinio me permite:
 - Compartir contenido útil con propósito y continuidad ✨  
 - Dedicar tiempo a construir proyectos educativos reales 💻
 
-[👉 Conviértete en sponsor](https://github.com/sponsors/lizethcas) y forma parte de esta comunidad que cree en el poder de compartir conocimiento.
+---
+
+
+Conviertete en [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%9C-purple?style=for-the-badge)](https://github.com/sponsors/lizethcas) y forma parte de esta comunidad que cree en el poder de compartir conocimiento.
+
 
 ¡Gracias por estar aquí! 💜
-
 
 ---
 
