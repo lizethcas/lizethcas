@@ -1,9 +1,13 @@
-<h1 align="center">Hola! 👋, soy Lizeth Castillo — @liztechcode👩‍💻</h1>
+<h1 align="center">Hola! 👋, soy Lizeth Castillo — @liztechcode👩‍💻</h1>  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lizethcas&color=blueviolet" alt="Profile views" />
+</p>
+
 
 <p align="center">
   <strong>Desarrolladora web | Educadora Tech | Creadora de herramientas para aprender a programar</strong><br>
   💡 Transformo ideas en productos digitales educativos<br>
   🧠 Ayudo a aprender programación con lógica, estructura y sin depender de tutoriales
+  
 </p>
 
 ---
@@ -11,7 +15,8 @@
 - 🚀 +5 años de experiencia en el sector tecnologico : desarrollo web | Entrenamiento de bots.
 - 🧠 Docente de programación: haciendo facil lo complejo.
 - 📣 Comparto contenido sobre aprendizaje consciente, lógica de programación y uso estratégico de la IA.
-- 🎮 Curiosa del desarrollo de juegos con JavaScript y Python.
+
+
 
 ---
 ## 💼 Experiencia Profesional
